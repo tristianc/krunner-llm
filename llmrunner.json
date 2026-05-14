@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tibix@winboat.app",
+                "Name": "TibixDev"
+            }
+        ],
+        "Description": "Ask an LLM in KRunner: type 'ai <query>'",
+        "EnabledByDefault": true,
+        "Icon": "tools-wizard",
+        "License": "MIT",
+        "Name": "LLM",
+        "Version": "0.1"
+    },
+    "X-Plasma-Runner-Min-Letter-Count": 4,
+    "X-Plasma-Runner-Match-Regex": "^ai\\s",
+    "X-KDE-ConfigModule": "kf6/krunner/kcms/kcm_krunner_llm"
+}

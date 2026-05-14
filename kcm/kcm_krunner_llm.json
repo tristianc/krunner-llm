@@ -1,0 +1,7 @@
+{
+    "KPlugin": {
+        "Name": "LLM",
+        "Description": "Configure the LLM runner",
+        "Icon": "tools-wizard"
+    }
+}
