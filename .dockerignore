@@ -1,0 +1,8 @@
+.git
+build
+build-*
+dist
+resources
+.cache
+.idea
+.vscode
